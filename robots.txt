@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://odupairi.github.io/CEf/sitemap_index.txt
+Sitemap: https://odupairi.github.io/QLM/sitemap_index.txt
+Sitemap: https://odupairi.github.io/mpc/sitemap_index.txt
+Sitemap: https://odupairi.github.io/shc/sitemap_index.txt
